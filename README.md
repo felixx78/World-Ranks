@@ -3,7 +3,8 @@
 
 [DevChallenges - World Ranks](https://devchallenges.io/challenge/49)
 
-
+## Live Demo
+[World Ranks Demo](https://world-ranks-bbe53.web.app/)
 
 
 ## API
