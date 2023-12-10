@@ -17,6 +17,7 @@
 
 - React
 - TailwindCSS
+- React Query
 - React Router
 - React Loading Skeleton
 
