@@ -28,7 +28,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/v1st78/World-Ranks
+  git clone https://github.com/felixx78/World-Ranks
 ```
 
 Go to the project directory
